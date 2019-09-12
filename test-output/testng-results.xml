@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8689" started-at="2019-09-07T04:43:43Z" finished-at="2019-09-07T04:43:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8689" started-at="2019-09-07T04:43:43Z" finished-at="2019-09-07T04:43:52Z">
+      <class name="test.TESTFramework">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:test.TESTFramework@1ae369b7]" name="openApp" is-config="true" duration-ms="6044" started-at="2019-09-07T10:13:43Z" finished-at="2019-09-07T10:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:test.TESTFramework@1ae369b7]" name="verify" duration-ms="2632" started-at="2019-09-07T10:13:49Z" finished-at="2019-09-07T10:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:test.TESTFramework@1ae369b7]" name="closeApp" is-config="true" duration-ms="2" started-at="2019-09-07T10:13:52Z" finished-at="2019-09-07T10:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- test.TESTFramework -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
